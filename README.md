@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hello..+I'm+Azizbek;Full+Stack+Junior+Developer;Building+Real+Projects+Everyday;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Azizbek;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
@@ -93,3 +93,4 @@
     <p>Email: <a href="mailto:azizbek@example.com">azizbek@example.com</a></p>
     <p>GitHub: <a href="https://github.com/Azizbek-programmer">https://github.com/Azizbek-programmer</a></p>
 </div>
+
