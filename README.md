@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=32\&duration=2000\&pause=800\&color=00FF00\&center=true\&vCenter=true\&width=700\&lines=Hello+this+is+my+GitHub+_;Welcome+to+my+terminal+profile+_;Full+Stack+Developer+in+progress+_)](https://git.io/typing-svg)
+
+
+
 Salom! Men **Azizbek**, boshlang‘ich darajadagi **Full Stack Developer** bo‘lish yo‘lida izchil harakat qilayotgan yosh dasturchiman. Hozirda frontend + backend yo‘nalishlarida mustahkam bilim hosil qilib, real loyihalar yaratish orqali tajribamni oshiryapman. Mening maqsadim — zamonaviy texnologiyalar bilan to‘liq ishlay oladigan kuchli dasturchi bo‘lish.
 
 ---
@@ -85,3 +88,4 @@ Salom! Men **Azizbek**, boshlang‘ich darajadagi **Full Stack Developer** bo‘
 ---
 
 Agar xohlasang, shu README’ni yanada zo‘r design bilan kuchaytirib beraman — animatsiya banner, GIF, stats karta va boshqalar qo‘shib berishim mumkin.
+
