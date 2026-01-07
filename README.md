@@ -189,15 +189,6 @@
 </div>
 
 <div style="text-align: center;">
-    <h2>🌱 Currently Learning</h2>
-    <p>Currently deepening my knowledge and learning new technologies:</p>
-    <ul>
-        <li>Advanced TypeScript and NestJS</li>
-        <li>React and Next.js frameworks</li>
-    </ul>
-</div>
-
-<div style="text-align: center;">
     <h2>🎯 Future Goals</h2>
     <p>My goals for the future include:</p>
     <ul>
@@ -214,3 +205,4 @@
     <p>Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=azizbekmirzavaliyev31@gmail.com">azizbekmirzavaliyev31@gmail.com</a></p>
     <p>GitHub: <a href="https://github.com/Azizbek-programmer">https://github.com/Azizbek-programmer</a></p>
 </div>
+
