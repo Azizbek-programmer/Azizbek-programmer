@@ -81,9 +81,8 @@
 
   <!-- Auth & Security -->
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black" />
-  <img src="https://img.shields.io/badge/Clerk/Auth0-512BD4?style=for-the-badge&logo=auth0&logoColor=white" />
+
 
 </div>
 
@@ -120,17 +119,11 @@
 
   <!-- Package Managers -->
   <img src="https://img.shields.io/badge/npm/yarn/pnpm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
-
   <br/>
-
   <!-- Environment -->
   <img src="https://img.shields.io/badge/.env_files-000000?style=for-the-badge&logo=dotenv&logoColor=white" />
   <img src="https://img.shields.io/badge/dotenv-2E8B57?style=for-the-badge&logo=dotenv&logoColor=white" />
-
   <br/>
-
   <!-- Database Servers & Tools -->
   <img src="https://img.shields.io/badge/MySQL_Server-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL_Server-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
